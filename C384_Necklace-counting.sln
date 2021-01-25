@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C384_Necklace-counting", "C384_Necklace-counting\C384_Necklace-counting.csproj", "{D8A8DD64-66E2-42E4-9CB6-000251276BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C384_Necklace-counting_Test", "C384_Necklace-counting_Test\C384_Necklace-counting_Test.csproj", "{9B8C2E58-B69D-48AD-88F4-0797CF614E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A8DD64-66E2-42E4-9CB6-000251276BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A8DD64-66E2-42E4-9CB6-000251276BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A8DD64-66E2-42E4-9CB6-000251276BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A8DD64-66E2-42E4-9CB6-000251276BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8C2E58-B69D-48AD-88F4-0797CF614E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8C2E58-B69D-48AD-88F4-0797CF614E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8C2E58-B69D-48AD-88F4-0797CF614E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8C2E58-B69D-48AD-88F4-0797CF614E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FA76D7-060E-4D2F-AB54-5E5458B0CF2F}
+	EndGlobalSection
+EndGlobal
